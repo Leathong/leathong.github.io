@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Leathong&#39;s blog</title>
+  
+  
+  <link href="http://leathong.com/atom.xml" rel="self"/>
+  
+  <link href="http://leathong.com/"/>
+  <updated>2022-03-11T11:09:24.345Z</updated>
+  <id>http://leathong.com/</id>
+  
+  <author>
+    <name>Leathong</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="http://leathong.com/2022/03/11/first-blog/"/>
+    <id>http://leathong.com/2022/03/11/first-blog/</id>
+    <published>2022-03-11T11:08:23.000Z</published>
+    <updated>2022-03-11T11:09:24.345Z</updated>
+    
+    <content type="html"><![CDATA[<p>花了一天时间终于把博客搭建好了，有时间会写一些技术上的记录，也可能写一些生活上的感想</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;花了一天时间终于把博客搭建好了，有时间会写一些技术上的记录，也可能写一些生活上的感想&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
