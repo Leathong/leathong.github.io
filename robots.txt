@@ -1,7 +1,11 @@
 User-agent: *
+
 Allow: /
 Allow: /archives/
 Allow: /categories/
 Allow: /tags/
 Allow: /about/
-Sitemap: http://leathong.com/sitemap.xml,http://leathong.com/baidusitemap.xml
+
+Sitemap: http://leathong.com/sitemap.xml
+Sitemap: http://leathong.com/baidusitemap.xml
+
